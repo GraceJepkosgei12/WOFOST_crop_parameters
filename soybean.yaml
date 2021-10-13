@@ -339,7 +339,7 @@ CropParameters:
             #
             # ROOTING DEPTH
             #
-            RDI:
+            ROOTDI:
             -  10.0
             - initial rooting depth
             - ['cm']
